@@ -20,7 +20,7 @@ LANGUAGE MODELS". Com essa técnica, é possível que as informações sejam cap
 
 ### Descrição dos blocos
 
-Modelo Desatualizado: partimos de um modelo sólido, treinado com diversas informações, porém que não se mantém constantemente atualizado, sendo necessário realizar ajustes.
+- Modelo Desatualizado: partimos de um modelo sólido, treinado com diversas informações, porém que não se mantém constantemente atualizado, sendo necessário realizar ajustes.
 
 - Monitoramento de Dados: bloco responsável por monitorar constantemente os fluxos de dados de entrada. Ele coleta e armazena novos dados que representam a evolução do conhecimento de mundo, descartando dados duplicados ou redundantes. 
 
@@ -40,7 +40,7 @@ Modelo Desatualizado: partimos de um modelo sólido, treinado com diversas infor
 
 ## Conclusão
 
-A atualização contínua de modelos conversacionais é essencial para garantir que os sistemas conversacionais forneçam informações precisas e atualizadas, dado o ritmo acelerado das mudanças no mundo. Portanto, o CLK é uma técnica segura e eficiente que pode ser implementada para manter a confiabilidade dos modelos. Com isso, a solução proposta se demonstrou eficiente ao combinar técnicas de monitoramento de dados, detecção de concept drift e treinamento incremental para manter os modelos atualizados. Portanto, se demonstra um investimento necessário para garantir a relevância e precisão dos modelos de linguagem, sendo de extrema importância para as mais diversas aplicações.
+A atualização contínua de modelos conversacionais é essencial para garantir que os sistemas conversacionais forneçam informações precisas e atualizadas, dado o ritmo acelerado das mudanças no mundo. Portanto, o CLK é uma técnica segura e eficiente que pode ser implementada para manter a confiabilidade dos modelos. Com isso, a solução proposta se demonstrou eficiente ao combinar técnicas de monitoramento de dados, detecção de concept drift e treinamento incremental para manter os modelos atualizados. Portanto, se demonstra uma aplicação necessária para garantir a relevância e precisão dos modelos de linguagem, sendo de extrema importância para as mais diversas aplicações.
 
 <br>
 
