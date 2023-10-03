@@ -40,7 +40,9 @@ LANGUAGE MODELS". Com essa técnica, é possível que as informações sejam cap
 
 ## Conclusão
 
-A atualização contínua de modelos conversacionais é essencial para garantir que os sistemas conversacionais forneçam informações precisas e atualizadas, dado o ritmo acelerado das mudanças no mundo. Portanto, o CLK é uma técnica segura e eficiente que pode ser implementada para manter a confiabilidade dos modelos. Com isso, a solução proposta se demonstrou eficiente ao combinar técnicas de monitoramento de dados, detecção de concept drift e treinamento incremental para manter os modelos atualizados. Portanto, se demonstra uma aplicação necessária para garantir a relevância e precisão dos modelos de linguagem, sendo de extrema importância para as mais diversas aplicações.
+A atualização contínua de modelos conversacionais é essencial para garantir que os sistemas conversacionais forneçam informações precisas e atualizadas, dado o ritmo acelerado das mudanças no mundo. Portanto, o CLK é uma técnica segura e eficiente que pode ser implementada para manter a confiabilidade dos modelos. Com isso, a solução proposta se demonstrou eficiente ao combinar técnicas de monitoramento de dados, detecção de concept drift e treinamento incremental para manter os modelos atualizados.
+O esforço para implementar desse sistema envolve aspectos técnicos e também considerações sobre a frequência de atualizações, a relevância das novas informações e a capacidade de manter a eficácia do modelo.
+Portanto, embora a implementação deste sistema exija esforço e recursos, é um investimento necessário para garantir a relevância e precisão dos modelos de linguagem, sendo de extrema importância para as mais diversas aplicações.
 
 <br>
 
