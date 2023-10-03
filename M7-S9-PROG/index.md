@@ -13,7 +13,7 @@ No entanto, é nítido que novas informações, eventos e descobertas surgem o t
 ## Solução Proposta
 
 ### Diagrama de blocos
-![Diagrama](/diagrama_blocos.png)
+![Diagrama](diagrama_blocos.png)
 A figura acima apresenta um diagrama de blocos que representa a técnica de Aprendizado Contínuo (CLK), baseado no artigo "TOWARDS CONTINUAL KNOWLEDGE LEARNING OF
 LANGUAGE MODELS". Com essa técnica, é possível que as informações sejam capturadas em tempo real, de maneira eficiente e segura, atenuando a problemática mencionada.
 
